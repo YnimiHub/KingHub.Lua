@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/YnimiHub/Scripts.Lua/main/King-Hub.Lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/YnimiHub/Scripts.Lua/main/KingHub.Lua"))()
